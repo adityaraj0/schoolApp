@@ -18,9 +18,7 @@ class login extends Component {
           <button type="button">Login</button>
           <br />
 
-          <Link to="/SignUp">
-            <SignUp />
-          </Link>
+          <Link to="/SignUp">SignUp</Link>
         </form>
       </div>
     );
